@@ -14,10 +14,10 @@ You may want to save the day and download the detailed PDF version from [here](h
 Education
 ======
 
-* M.Sc. in Electrical Engineering (Control Major) - University of Tehran - Tehran, Iran - 2019 -> pres
+* M.Sc. in Electrical Engineering (Control Major) at University of Tehran - Tehran, Iran (2019 -> pres)
   * Thesis: Online Learning for Large Scale Mixture Model.(In Progress) 
   * Supervisor:  [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate)
-* B.Sc. in  Electrical Engineering (Control Major) - IKIU - Qazvin, Iran - 2014 -> 2018
+* B.Sc. in  Electrical Engineering (Control Major) at IKIU - Qazvin, Iran (2014 -> 2018)
   * Thesis: Robust PID Controller Design using Kharitonov Theorem and Stability Boundary Locus (SBL) Method 
   * Supervisor [Dr. Mehdi Rahmani](https://scholar.google.com/citations?user=J1uikzMAAAAJ&hl=en)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
@@ -28,13 +28,11 @@ Academic Experience
   * University of Tehran (UT)
   * Supervisor:  [Dr. Reshad Hosseini](https://profile.ut.ac.ir/en/~reshad.hosseini)
 
-* 2019-Present: Teacher Assistant
-  * University of Tehran (UT)
+* 2019-Present: Teacher Assistant at UT
   * M.Sc Courses: System Estimation and Identification, Neural Networks & Deep Learning, Optimal Control, Statistical Inference
   * B.Sc Courses: Intelligent Systems, Linear Control System
 
-*  2015 - 2018: Teacher Assistant & Teaching
-  * IKIU
+*  2015 - 2018: Teacher Assistant & Teaching at IKIU
   * B.Sc Courses: Basic Physics II, Numerical Mathematics, Circuit Theory I, Logic Circuit I & II
   * Practical Courses: Applied Design of logic circuit with FPGA using VHDL, Numerical Mathematics using MATLAB
 
