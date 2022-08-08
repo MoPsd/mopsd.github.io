@@ -6,15 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q0FF10ZCXC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q0FF10ZCXC');
-</script>
 ---
 Welcome
 ======
