@@ -26,7 +26,7 @@ Academic Experience
 ======
 * 2020-Present: Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/)
   * University of Tehran (UT)
-  * Supervisor:  [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate)
+  * Supervisor:  [Dr. Reshad Hosseini](https://profile.ut.ac.ir/en/~reshad.hosseini)
 
 * 2019-Present: Teacher Assistant
   * University of Tehran (UT)
