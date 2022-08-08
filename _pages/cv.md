@@ -24,15 +24,15 @@ Education
 
 Academic Experience
 ======
-* 2020-Present: Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/)
+* 2020-Present : Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/)
   * University of Tehran (UT)
   * Supervisor:  [Dr. Reshad Hosseini](https://profile.ut.ac.ir/en/~reshad.hosseini)
 
-* 2019-Present: Teacher Assistant at UT
+* 2019-Present : Teacher Assistant at UT
   * M.Sc Courses: System Estimation and Identification, Neural Networks & Deep Learning, Optimal Control, Statistical Inference
   * B.Sc Courses: Intelligent Systems, Linear Control System
 
-* 2015 - 2018: Teacher Assistant & Teaching at IKIU
+* 2015-2018: Teacher Assistant & Teaching at IKIU
   * B.Sc Courses: Basic Physics II, Numerical Mathematics, Circuit Theory I, Logic Circuit I & II
   * Practical Courses: Applied Design of logic circuit with FPGA using VHDL, Numerical Mathematics using MATLAB
 
