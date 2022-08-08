@@ -4,7 +4,7 @@ Orthogonality Constraints"
 collection: publications
 permalink:
 excerpt: 'A corresponding paper on the subject of my Ms.c Thesis.'
-date: 2022
+date: 2022-00-00
 venue: ''
 paperurl: '' 
 citation: ''
