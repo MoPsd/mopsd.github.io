@@ -7,15 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome
+======
+I am Mohmmad Pasande, an Optimization, Artificial Intelligence, and Control Theory researcher. I'm avid in expanding my knowledge, discovering profound mathematical aspects of problems, and deploying algorithmic solutions to them.
 
-Hi, my name is, what? My name is, who?
+About Me
+======
 
-My name is, chka-chka, Slim Shady
+I am an M.Sc. student in Electrical Engineering (Control major) at the University of Tehran, Iran.
 
-Hi, my name is, huh? My name is, what?
+As a master's student, my attention is dedicated to the Methodology of Machine Learning and Optimization.
 
-My name is, chka-chka, Slim Shady
+Also, as a bachelor's student, I have tried to grow my understanding of control theories like Robust Control and System Identification. 
 
+During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, control routine design, and interfacing high-speed data loggers.
+
+Furthermore, I've been trying to achieve an acceptable level in both the theoretical and practical realms.
+
+Interests
+======
+Optimization, Mathematical explanations of Machine Learning, Computational Modeling, Optimal Decision Making, and Causal Inference
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
