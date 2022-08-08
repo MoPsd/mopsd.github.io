@@ -32,7 +32,7 @@ Academic Experience
   * M.Sc Courses: System Estimation and Identification, Neural Networks & Deep Learning, Optimal Control, Statistical Inference
   * B.Sc Courses: Intelligent Systems, Linear Control System
 
-*  2015 - 2018: Teacher Assistant & Teaching at IKIU
+* 2015 - 2018: Teacher Assistant & Teaching at IKIU
   * B.Sc Courses: Basic Physics II, Numerical Mathematics, Circuit Theory I, Logic Circuit I & II
   * Practical Courses: Applied Design of logic circuit with FPGA using VHDL, Numerical Mathematics using MATLAB
 
