@@ -14,11 +14,12 @@ I am Mohmmad Pasande, an Optimization, Artificial Intelligence, and Control Theo
 About Me
 ======
 
-I am an M.Sc. student in Electrical Engineering (Control major) at the University of Tehran, Iran.
+I am an M.Sc. student in Electrical Engineering (Control major) at the University of Tehran, Iran, and currently a Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/) under the supervision of [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=ene)
 
-As a master's student, my attention is dedicated to the Methodology of Machine Learning and Optimization.
+As a master's student, my attention is dedicated to the Methodology of Machine Learning, Optimization, and its applications in Deep Learning.
 
-Also, as a bachelor's student, I have tried to grow my understanding of control theories like Robust Control and System Identification. 
+Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor thesis under the supervision of [Dr. Mehdi Rahmani](https://scholar.google.com/citations?user=J1uikzMAAAAJ&hl=en)
+
 
 During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, control routine design, and interfacing high-speed data loggers.
 
@@ -26,7 +27,7 @@ Furthermore, I've been trying to achieve an acceptable level in both the theoret
 
 Interests
 ======
-Optimization, Mathematical explanations of Machine Learning, Computational Modeling, Optimal Decision Making, and Causal Inference
+Optimization, Mathematical explanations of Machine Learning, Computational Modeling, Optimal Decision Making (Control,) and Causal Inference.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
