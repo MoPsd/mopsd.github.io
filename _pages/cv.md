@@ -30,15 +30,27 @@ Academic Experience
 
 * 2021-Present : Research Assistant at Machine Learning and Computational Modeling (MLCM) Lab
   * University of Tehran (UT)
-  * Supervisor:  [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en)
+  * Supervisor:  [Dr. Babak N. Araabi](https://ece.ut.ac.ir/en/~araabi)
 
 * 2019-Present : Teacher Assistant at UT
-  * M.Sc Courses: System Estimation and Identification, Neural Networks & Deep Learning, Optimal Control, Statistical Inference
-  * B.Sc Courses: Intelligent Systems, Linear Control System
+  * M.Sc Courses: 
+    * System Estimation and Identification, 
+    * Neural Networks & Deep Learning, 
+    * Optimal Control, 
+    * Statistical Inference
+  * B.Sc Courses: 
+    * Intelligent Systems, 
+    * Linear Control System.
 
 * 2015-2018: Teacher Assistant & Teaching at IKIU
-  * B.Sc Courses: Basic Physics II, Numerical Mathematics, Circuit Theory I, Logic Circuit I & II
-  * Practical Courses: Applied Design of logic circuit with FPGA using VHDL, Numerical Mathematics using MATLAB
+  * B.Sc Courses: 
+    * Basic Physics II, 
+    * Numerical Mathematics, 
+    * Circuit Theory I, 
+    * Logic Circuit I & II.
+  * Practical Courses: 
+    * Applied Design of logic circuit with FPGA using VHDL, 
+    * Numerical Mathematics using MATLAB.
 
   
 Skills
@@ -53,9 +65,17 @@ Skills
 Selected Courses
 ======
 * M. Sc.
-  * Neural Networks & Deep Learning - Statistical Inference - Game Theory - System Estimation & Identification - Cognitive Neurosciences - Advanced Optimization (Audited due to the course counts limitation.)
+  * Neural Networks & Deep Learning
+  * Statistical Inference
+  * Game Theory
+  * System Estimation & Identification 
+  * Cognitive Neurosciences
+  * Advanced Optimization (Audited due to the course counts limitation.)
 * B. Sc
-  * Operation Research - Modern Control Systems - Digital Control Systems - Instrumentation.
+  * Operation Research
+  * Modern Control Systems
+  * Digital Control Systems
+  * Instrumentation.
 
 Publications
 ======
