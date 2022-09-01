@@ -9,6 +9,6 @@ location: "Tehran, Iran"
 ---
 
 
-I'll be talking about my progress in research, building up a foundation of large-scale stochastic optimization algorithms to improve the performance of parameter estimation in gaussian mixture models, and adding the result of tests of our algorithm in the case of the generative flow-based model (known as GLOW).
+I'll be talking about my progress in research, building up a foundation of large-scale stochastic optimization algorithms to improve the performance of parameter estimation in gaussian mixture models, and adding the result of our algorithm tests in the case of the generative flow-based model (known as GLOW).
 
-You may find my presentation slides here.
+You may find a shortened version of my presentation slides [here](https://mopsd.github.io/files/Short_Presentation_Mohammad_Pasande.pdf).
