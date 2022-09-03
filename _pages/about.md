@@ -16,7 +16,7 @@ About Me
 
 I am an M.Sc. student in Electrical Engineering (Control major) at the University of Tehran, Iran, and currently a Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/) under the supervision of [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=ene)
 
-As a master's student, my attention is dedicated to the Methodology of Machine Learning, Optimization, and its applications in Deep Learning.
+As a master's student, my attention is dedicated to the Optimization, Methodology of Machine Learning, and its applications in Deep Learning.
 
 Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor thesis under the supervision of [Dr. Mehdi Rahmani](https://scholar.google.com/citations?user=J1uikzMAAAAJ&hl=en)
 
