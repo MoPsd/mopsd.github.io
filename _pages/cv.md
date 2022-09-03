@@ -17,9 +17,11 @@ Education
 * M.Sc. in Electrical Engineering (Control Major) at University of Tehran - Tehran, Iran (2019 -> pres)
   * Thesis: Online Learning for Large Scale Mixture Model.(In Progress) 
   * Supervisors:  [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en)
+  * GPA : 3.62/4.00 (17.05/20.0)
 * B.Sc. in  Electrical Engineering (Control Major) at IKIU - Qazvin, Iran (2014 -> 2018)
   * Thesis: Robust PID Controller Design using Kharitonov Theorem and Stability Boundary Locus (SBL) Method 
   * Supervisor [Dr. Mehdi Rahmani](https://scholar.google.com/citations?user=J1uikzMAAAAJ&hl=en)
+  * GPA : 3.62/4.00 (17.25/20.0)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Academic Experience
