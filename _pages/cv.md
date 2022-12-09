@@ -63,6 +63,7 @@ Languages
   * Speaking : 22
   * Writing : 23
   * Overall : 98
+
 Skills
 ======
 * Analytical Skills
