@@ -54,7 +54,15 @@ Academic Experience
     * Applied Design of logic circuit with FPGA using VHDL, 
     * Numerical Mathematics using MATLAB.
 
-  
+Languages
+======
+* Farsi: Native
+* English: Proficient - The TOEFL exam result:
+  * Reading : 25
+  * Listening : 28
+  * Speaking : 22
+  * Writing : 23
+  * Overall : 98
 Skills
 ======
 * Analytical Skills
