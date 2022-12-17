@@ -1,7 +1,6 @@
 ---
 title: "Stochastic First-Order Learning for Large-Scale Flexibly-Tied Gaussian Mixture Model"
 collection: publications
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023
 paperurl: 'http://arxiv.org/abs/2212.05402'
 citation: 'Pasande M, Hosseini R, Araabi BN. Stochastic First-Order Learning for Large-Scale Flexibly-Tied Gaussian Mixture Model. arXiv
