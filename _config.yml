@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Pasande"
-  avatar           : "Profile.png"
+  avatar           : "profile.png"
   bio              : "I'm a researcher and developer in machine learning, optimization, and control."
   location         : "Tehran, Iran"
   employer         :
