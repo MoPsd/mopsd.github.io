@@ -14,7 +14,7 @@ You may want to save the day and download the detailed PDF version from [here](h
 Education
 ======
 
-* M.Sc. in Electrical Engineering (Control Major) at University of Tehran - Tehran, Iran (2019 -> pres)
+* M.Sc. in Electrical Engineering (Control Major) at University of Tehran - Tehran, Iran (2019 -> 2022)
   * Thesis: Online Learning for Large Scale Mixture Model.(In Progress) 
   * Supervisors:  [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en)
   * GPA : 3.62/4.00 (17.05/20.0)
