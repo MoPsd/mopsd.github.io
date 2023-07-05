@@ -99,11 +99,11 @@ Industrial Experience
 * 2021-Present : Algorithm Engineer at [SEDNA](https://sednaco.ir/en/) (Part-Time)
   * Sensorless Calibration
   * Desirable house temperature control routines design
-
+<!--
 * 2017-2020 : Embedded Developer at [INTELLICO](https://intellico.ir/) (Part-Time)
   * FPGA design and development engineer involved in several products as follow:
     * [INT2624M](https://intellico.ir/product/%d8%af%db%8c%d8%aa%d8%a7%d9%84%d8%a7%da%af%d8%b1-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%d8%af%d8%a7%d8%b1-%d9%be%d8%b1%d8%aa%d8%a7%d8%a8%d9%84-%db%b8-%da%a9%d8%a7%d9%86%d8%a7%d9%84%d9%87-%d8%a8%d8%a7-%d8%b3/) - [INT2724H](https://intellico.ir/product/%d9%86%d9%85%d9%88%d9%86%d9%87-%d8%a8%d8%b1%d8%af%d8%a7%d8%b1-16-%d9%88%d8%b1%d9%88%d8%af%db%8c-24-%d8%a8%db%8c%d8%aa-128k/) - [INT2224E](https://intellico.ir/product/%d8%af%db%8c%d8%aa%d8%a7%d9%84%d8%a7%da%af%d8%b1-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%af%d9%82%db%8c%d9%82-%d9%88-%d9%85%d8%a7%d9%86%db%8c%d8%aa%d9%88%d8%b1%db%8c%d9%86%da%af-2/) - [INT6716](https://intellico.ir/product/%D9%85%D8%A7%DA%98%D9%88%D9%84-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%B2%D9%85%D8%A7%D9%86%DB%8C-%D8%AA%D8%AD%D8%B1%DB%8C%DA%A9/)
-
+-->
 Talks
 ======
   <ul>{% for post in site.talks %}
