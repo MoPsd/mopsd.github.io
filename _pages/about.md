@@ -14,14 +14,14 @@ I am Mohmmad Pasande, an Optimization, Artificial Intelligence, and Control Theo
 About Me
 ======
 
-I am an M.Sc. in Electrical Engineering (Control major) form the University of Tehran, Iran, and currently a Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/) under the supervision of [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=ene)
+I am an M.Sc. in Electrical Engineering (Control major) from the University of Tehran, Iran, and currently a Research Assistant at [CAVLab](http://visionlab.ut.ac.ir/) under the supervision of [Dr. Reshad Hosseini](https://scholar.google.com/citations?hl=en&user=zqa4EY0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Babak N. Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=ene)
 
 As a master's student, my attention was dedicated to the Optimization, Methodology of Machine Learning, and its applications in Deep Learning.
 
-Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor thesis under the supervision of [Dr. Mehdi Rahmani](https://scholar.google.com/citations?user=J1uikzMAAAAJ&hl=en)
+Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor's thesis under the supervision of [Dr. Mehdi Rahmani](https://scholar.google.com/citations?user=J1uikzMAAAAJ&hl=en)
 
 
-During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, control routine design, and interfacing high-speed data loggers.
+During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, and control routine design.
 
 Furthermore, I've been trying to achieve an acceptable level in both the theoretical and practical realms.
 
