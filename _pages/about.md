@@ -20,7 +20,7 @@ During my undergraduate studies, I dedicated myself to enhancing my comprehensio
 
 Throughout my academic years, I actively sought opportunities to bridge the gap between theory and practice. I participated in various projects, delving into areas such as time series forecasting, sensorless calibration, and the design of control routines. These experiences have not only honed my theoretical understanding but have also equipped me with practical skills, further bolstering my academic journey.
 
-<1 -- During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, and control routine design.
+<! -- During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, and control routine design.
 
 Furthermore, I've been trying to achieve an acceptable level in both the theoretical and practical realms.
 -->
