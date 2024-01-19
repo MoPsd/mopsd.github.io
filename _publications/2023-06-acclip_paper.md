@@ -1,10 +1,9 @@
 ---
 title: "Stochastic First-Order Learning for Large-Scale Flexibly-Tied Gaussian Mixture Model"
 collection: publications
-date: 2022-12-11
-paperurl: 'http://arxiv.org/abs/2212.05402'
-citation: 'Pasande M, Hosseini R, Araabi BN. Stochastic First-Order Learning for Large-Scale Flexibly-Tied Gaussian Mixture Model. arXiv
-preprint arxiv 2212.05402.'
+date: 2022-02-01
+paperurl: 'https://doi.org/10.1016/j.patrec.2023.12.021 '
+citation: 'Pasande, M., Hosseini, R., & Araabi, B. N. (2024). Stochastic first-order learning for large-scale flexibly tied Gaussian mixture models. Pattern Recognition Letters.'
 ---
 <!-- This paper is corresponding to the subject of my Ms.c Thesis and it's Under Preparation.
 ![Editing a markdown file for a talk](/images/glow_mine.gif) -->
