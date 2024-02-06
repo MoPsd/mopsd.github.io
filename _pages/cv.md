@@ -96,16 +96,17 @@ Publications
 
 Industrial Experience
 ======
-* 2021-Present : Algorithm Engineer at [SEDNA](https://sednaco.ir/en/) (Part-Time)
+* 2021-2023 : Algorithm Engineer at [SEDNA](https://sednaco.ir/en/) (Part-Time)
   * Sensorless Calibration
   * Desirable house temperature control routines design
 
 
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+     -->
   
 <!-- Teaching
 ======
